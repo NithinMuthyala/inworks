@@ -3,6 +3,7 @@
     "nav": {
       "logo": "PoliticalConsult",
       "home": "Home",
+      "ghmc": "GHMC",
       "whyChooseUs": "Why Choose Us",
       "services": "Services",
       "aboutUs": "About Us",
@@ -33,6 +34,52 @@
       "content1": "We specialize in political strategy, campaign execution, voter engagement, and digital communication for political leaders and organizations. Our team combines technology, analytics, and grassroots planning to deliver measurable election outcomes.",
       "content2": "We assist candidates at every stage — from constituency research and public perception management to election-day operations.",
       "cta": "Learn More About Us"
+    },
+    "ghmc": {
+      "heading": "GHMC Election Strategy 2026",
+      "subheading": "Mastering the Hyderabad Urban Landscape with Data and Grassroots Intelligence.",
+      "update": {
+        "title": "Latest GHMC Updates",
+        "content": "The 2026 GHMC elections are set against a backdrop of significant restructuring. With the proposal to increase wards from 150 to 300 and the potential trifurcation into Hyderabad, Cyberabad, and Malkajgiri corporations, the political landscape is more competitive than ever."
+      },
+      "whatWeServe": {
+        "title": "What We Serve for GHMC",
+        "items": [
+          {
+            "title": "Ward-Level Micro-Planning",
+            "description": "Granular strategy for each of the 300 wards, focusing on local issues like infrastructure, water, and sanitation."
+          },
+          {
+            "title": "Voter Mapping & SIR Support",
+            "description": "Leveraging Special Intensive Revision (SIR) data for precise voter targeting and mobilization."
+          },
+          {
+            "title": "Urban Digital Blitz",
+            "description": "Hyper-local social media campaigns targeting specific housing societies, colonies, and basthis."
+          },
+          {
+            "title": "Direct Mayor Campaign",
+            "description": "Strategic positioning for the proposed direct mayoral elections to build a strong city-wide leadership brand."
+          }
+        ]
+      },
+      "howToWin": {
+        "title": "How We Make You Win",
+        "items": [
+          {
+            "title": "Division Intelligence Reports",
+            "description": "Daily intelligence on opponent moves and shifting voter sentiments in each division."
+          },
+          {
+            "title": "Colony Welfare Association (CWA) Outreach",
+            "description": "Structured engagement plans for powerful urban influencers and local resident associations."
+          },
+          {
+            "title": "Real-time Field Operations",
+            "description": "A dedicated 24/7 urban war room to coordinate booth committees and manage polling day logistics across the city."
+          }
+        ]
+      }
     },
     "whyChooseUs": {
       "heading": "Why Leaders Trust Us",
@@ -177,7 +224,7 @@
     },
     "footer": {
       "company": ["About", "Services", "Careers", "Privacy Policy"],
-      "services": ["Campaign Management", "Digital Marketing", "PR Management", "Surveys & Analytics"],
+      "services": ["Campaign Management", "Digital Marketing", "GHMC Strategy", "Surveys & Analytics"],
       "quickLinks": ["Home", "Testimonials", "Contact"],
       "rights": "© 2026 PoliticalConsult. All rights reserved."
     }
@@ -186,6 +233,7 @@
     "nav": {
       "logo": "పొలిటికల్ కన్సల్ట్",
       "home": "హోమ్",
+      "ghmc": "జీహెచ్‌ఎంసీ",
       "whyChooseUs": "మమ్మల్ని ఎందుకు ఎంచుకోవాలి",
       "services": "సేవలు",
       "aboutUs": "మా గురించి",
@@ -217,6 +265,52 @@
       "content2": "నియోజకవర్గ పరిశోధన మరియు ప్రజల అవగాహన నిర్వహణ నుండి ఎన్నికల రోజు కార్యకలాపాల వరకు మేము అభ్యర్థులకు ప్రతి దశలోనూ సహాయం చేస్తాము.",
       "cta": "మా గురించి మరింత తెలుసుకోండి"
     },
+    "ghmc": {
+      "heading": "జీహెచ్‌ఎంసీ ఎన్నికల వ్యూహం 2026",
+      "subheading": "డేటా మరియు క్షేత్రస్థాయి మేధస్సుతో హైదరాబాద్ పట్టణ రాజకీయాలను అర్థం చేసుకోవడం.",
+      "update": {
+        "title": "తాజా జీహెచ్‌ఎంసీ అప్‌డేట్‌లు",
+        "content": "2026 జీహెచ్‌ఎంసీ ఎన్నికలు గణనీయమైన పునర్నిర్మాణ నేపథ్యంలో జరుగుతున్నాయి. వార్డుల సంఖ్యను 150 నుండి 300కి పెంచే ప్రతిపాదన మరియు హైదరాబాద్, సైబరాబాద్ మరియు మల్కాజిగిరి కార్పొరేషన్లుగా విభజించే అవకాశం ఉండటంతో, రాజకీయ రంగం గతంలో కంటే చాలా పోటీగా మారింది."
+      },
+      "whatWeServe": {
+        "title": "జీహెచ్‌ఎంసీ కోసం మేము ఏమి చేస్తాము",
+        "items": [
+          {
+            "title": "వార్డు స్థాయి మైక్రో-ప్లానింగ్",
+            "description": "మౌలిక సదుపాయాలు, నీరు మరియు పారిశుధ్యం వంటి స్థానిక సమస్యలపై దృష్టి సారించి ప్రతి 300 వార్డులకు వివరణాత్మక వ్యూహం."
+          },
+          {
+            "title": "ఓటర్ మ్యాపింగ్ & SIR మద్దతు",
+            "description": "ఖచ్చితమైన ఓటర్ లక్ష్యం మరియు సమీకరణ కోసం స్పెషల్ ఇంటెన్సివ్ రివిజన్ (SIR) డేటాను ఉపయోగించడం."
+          },
+          {
+            "title": "అర్బన్ డిజిటల్ బ్లిట్జ్",
+            "description": "నిర్దిష్ట హౌసింగ్ సొసైటీలు, కాలనీలు మరియు బస్తీలను లక్ష్యంగా చేసుకుని హైపర్-లోకల్ సోషల్ మీడియా ప్రచారాలు."
+          },
+          {
+            "title": "డైరెక్ట్ మేయర్ ప్రచారం",
+            "description": "బలమైన నగర స్థాయి నాయకత్వ బ్రాండ్‌ను నిర్మించడానికి ప్రతిపాదిత ప్రత్యక్ష మేయర్ ఎన్నికల కోసం వ్యూహాత్మక స్థానీకరణ."
+          }
+        ]
+      },
+      "howToWin": {
+        "title": "మేము మిమ్మల్ని ఎలా గెలిపిస్తాము",
+        "items": [
+          {
+            "title": "డివిజన్ ఇంటెలిజెన్స్ రిపోర్ట్స్",
+            "description": "ప్రతి డివిజన్‌లో ప్రత్యర్థుల కదలికలు మరియు మారుతున్న ఓటర్ల సెంటిమెంట్లపై రోజువారీ సమాచారం."
+          },
+          {
+            "title": "కాలనీ వెల్ఫేర్ అసోసియేషన్ (CWA) ఔట్రీచ్",
+            "description": "శక్తివంతమైన పట్టణ ప్రభావశీలులు మరియు స్థానిక నివాసితుల సంఘాల కోసం నిర్మాణాత్మక నిశ్చితార్థ ప్రణాళికలు."
+          },
+          {
+            "title": "రియల్ టైమ్ ఫీల్డ్ ఆపరేషన్స్",
+            "description": "నగరం అంతటా బూత్ కమిటీలను సమన్వయం చేయడానికి మరియు పోలింగ్ రోజు లాజిస్టిక్స్‌ను నిర్వహించడానికి ప్రత్యేకమైన 24/7 అర్బన్ వార్ రూమ్."
+          }
+        ]
+      }
+    },
     "whyChooseUs": {
       "heading": "నాయకులు మమ్మల్ని ఎందుకు నమ్ముతారు",
       "items": [
@@ -242,7 +336,7 @@
         },
         {
           "title": "ప్రత్యేక వార్ రూమ్",
-          "description": "ఎన్నికల సమయంలో రియల్ టైమ్ మానిటరింగ్ మరియు ప్రచార ప్రతిస్పందన వ్యవస్థలు."
+          "description": "ఎన్నికల సమయంలో రియల్ టైమ్ మానిటరిరింగ్ మరియు ప్రచార ప్రతిస్పందన వ్యవస్థలు."
         }
       ]
     },
@@ -360,7 +454,7 @@
     },
     "footer": {
       "company": ["మా గురించి", "సేవలు", "కెరీర్లు", "గోప్యతా విధానం"],
-      "services": ["ప్రచార నిర్వహణ", "డిజిటల్ మార్కెటింగ్", "PR నిర్వహణ", "సర్వేలు & విశ్లేషణలు"],
+      "services": ["ప్రచార నిర్వహణ", "డిజిటల్ మార్కెటింగ్", "జీహెచ్‌ఎంసీ వ్యూహం", "సర్వేలు & విశ్లేషణలు"],
       "quickLinks": ["హోమ్", "ప్రశంసలు", "సంప్రదించండి"],
       "rights": "© 2026 పొలిటికల్ కన్సల్ట్. అన్ని హక్కులు ప్రత్యేకించబడ్డాయి."
     }

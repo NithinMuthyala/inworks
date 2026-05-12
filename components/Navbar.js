@@ -30,6 +30,7 @@ const Navbar = () => {
 
   const navLinks = [
     { name: t('nav.home'), href: '/' },
+    { name: t('nav.ghmc'), href: '/ghmc' },
     { name: t('nav.whyChooseUs'), href: '/why-choose-us' },
     { name: t('nav.services'), href: '/services' },
     { name: t('nav.aboutUs'), href: '/about' },

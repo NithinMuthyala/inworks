@@ -20,7 +20,7 @@ export default function Footer() {
     { 
       title: "Services", 
       links: serviceLinks, 
-      hrefs: ["/services", "/services", "/services", "/services"] 
+      hrefs: ["/services", "/services", "/ghmc", "/services"] 
     },
     { 
       title: "Quick Links", 
