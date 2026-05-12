@@ -1,0 +1,368 @@
+{
+  "en": {
+    "nav": {
+      "logo": "PoliticalConsult",
+      "home": "Home",
+      "whyChooseUs": "Why Choose Us",
+      "services": "Services",
+      "aboutUs": "About Us",
+      "testimonials": "Testimonials",
+      "contactUs": "Contact Us",
+      "bookConsultation": "Book Consultation"
+    },
+    "hero": {
+      "heading": "Building Winning Political Campaigns With Data, Strategy & Public Trust",
+      "subheading": "We help political leaders, parties, and candidates connect with voters through modern campaign management, digital outreach, constituency analysis, and media strategy.",
+      "cta1": "Schedule Consultation",
+      "cta2": "Explore Services",
+      "trustLines": [
+        "Booth-Level Strategy",
+        "Social Media Campaigns",
+        "Ground Surveys",
+        "Election War Room Support"
+      ]
+    },
+    "stats": [
+      { "value": "50+", "label": "Campaigns Managed" },
+      { "value": "2M+", "label": "Voters Reached" },
+      { "value": "100+", "label": "Digital Campaigns" },
+      { "value": "24/7", "label": "War Room Operations" }
+    ],
+    "about": {
+      "heading": "About Our Political Consulting Firm",
+      "content1": "We specialize in political strategy, campaign execution, voter engagement, and digital communication for political leaders and organizations. Our team combines technology, analytics, and grassroots planning to deliver measurable election outcomes.",
+      "content2": "We assist candidates at every stage — from constituency research and public perception management to election-day operations.",
+      "cta": "Learn More About Us"
+    },
+    "whyChooseUs": {
+      "heading": "Why Leaders Trust Us",
+      "items": [
+        {
+          "title": "Strategic Campaign Planning",
+          "description": "Comprehensive election strategies tailored to constituency demographics and voter behavior."
+        },
+        {
+          "title": "Data-Driven Decisions",
+          "description": "Advanced analytics and voter insights for smarter political decision-making."
+        },
+        {
+          "title": "Digital Political Branding",
+          "description": "Professional social media management and political branding solutions."
+        },
+        {
+          "title": "Ground-Level Execution",
+          "description": "Booth management, volunteer coordination, and field operations support."
+        },
+        {
+          "title": "Media & Public Relations",
+          "description": "Reputation management, press handling, and crisis communication."
+        },
+        {
+          "title": "Dedicated War Room",
+          "description": "Real-time monitoring and campaign response systems during elections."
+        }
+      ]
+    },
+    "services": {
+      "heading": "Our Political Consulting Services",
+      "items": [
+        {
+          "title": "Election Campaign Management",
+          "description": "End-to-end campaign planning, execution, and monitoring for political candidates and parties.",
+          "includes": ["Campaign roadmap", "Candidate positioning", "Voter targeting", "Rally planning", "Election strategy"]
+        },
+        {
+          "title": "Political Digital Marketing",
+          "description": "Build a strong online presence through targeted political campaigns.",
+          "includes": ["Facebook & Instagram campaigns", "YouTube promotions", "WhatsApp outreach", "Political creatives", "Influencer campaigns"]
+        },
+        {
+          "title": "Voter Data Analytics",
+          "description": "Understand voter behavior and constituency trends using analytics.",
+          "includes": ["Voter segmentation", "Survey analysis", "Opinion polling", "Constituency reports"]
+        },
+        {
+          "title": "Social Media Management",
+          "description": "Professional handling of political social media accounts.",
+          "includes": ["Daily content posting", "Video campaigns", "Reels & shorts", "Public engagement", "Comment moderation"]
+        },
+        {
+          "title": "Booth Management",
+          "description": "Efficient booth-level election operations.",
+          "includes": ["Booth committees", "Volunteer training", "Voter mobilization", "Polling day coordination"]
+        },
+        {
+          "title": "Media & PR Management",
+          "description": "Strengthen public image and media relationships.",
+          "includes": ["Press releases", "News coverage", "Media planning", "Reputation management", "Crisis handling"]
+        },
+        {
+          "title": "Survey & Ground Research",
+          "description": "Field surveys and constituency intelligence gathering.",
+          "includes": ["Door-to-door surveys", "Public sentiment analysis", "Ground reports", "Election forecasting"]
+        },
+        {
+          "title": "Political Website & Tech",
+          "description": "Digital platforms and campaign technology support.",
+          "includes": ["Political websites", "CRM systems", "Volunteer tools", "Donation systems", "Chatbot integration"]
+        }
+      ]
+    },
+    "banner": {
+      "heading": "Transforming Visions into Victories",
+      "subheading": "Experience the power of data-driven political strategy.",
+      "cta": "Get Started"
+    },
+    "process": {
+      "heading": "How We Work",
+      "items": [
+        {
+          "title": "Research & Analysis",
+          "description": "We analyze constituency demographics, voter behavior, and political landscape."
+        },
+        {
+          "title": "Strategic Planning",
+          "description": "Customized campaign strategies aligned with election goals."
+        },
+        {
+          "title": "Campaign Execution",
+          "description": "Digital, media, and field operations implementation."
+        },
+        {
+          "title": "Monitoring & Optimization",
+          "description": "Continuous performance tracking and strategy refinement."
+        }
+      ]
+    },
+    "testimonials": {
+      "heading": "What Leaders Say About Us",
+      "items": [
+        {
+          "quote": "Their digital strategy and booth management helped us significantly improve voter engagement.",
+          "author": "Political Leader"
+        },
+        {
+          "quote": "Professional team with excellent political campaign expertise and real-time support.",
+          "author": "Campaign Manager"
+        },
+        {
+          "quote": "From social media to ground surveys, everything was handled efficiently.",
+          "author": "MLA Candidate"
+        }
+      ]
+    },
+    "cta": {
+      "heading": "Ready To Build A Winning Political Campaign?",
+      "content": "Partner with a professional political consulting team to strengthen your campaign, reach voters effectively, and maximize election impact.",
+      "buttons": {
+        "contact": "Contact Us",
+        "book": "Book Free Consultation"
+      }
+    },
+    "contact": {
+      "heading": "Contact Information",
+      "form": {
+        "name": "Full Name",
+        "phone": "Phone Number",
+        "email": "Email",
+        "party": "Political Party / Organization",
+        "message": "Message",
+        "submit": "Send Inquiry"
+      },
+      "info": {
+        "phone": "+91 98765 43210",
+        "email": "contact@politicalconsult.in",
+        "address": "123, Election Tower, Hyderabad, India"
+      }
+    },
+    "footer": {
+      "company": ["About", "Services", "Careers", "Privacy Policy"],
+      "services": ["Campaign Management", "Digital Marketing", "PR Management", "Surveys & Analytics"],
+      "quickLinks": ["Home", "Testimonials", "Contact"],
+      "rights": "© 2026 PoliticalConsult. All rights reserved."
+    }
+  },
+  "te": {
+    "nav": {
+      "logo": "పొలిటికల్ కన్సల్ట్",
+      "home": "హోమ్",
+      "whyChooseUs": "మమ్మల్ని ఎందుకు ఎంచుకోవాలి",
+      "services": "సేవలు",
+      "aboutUs": "మా గురించి",
+      "testimonials": "ప్రశంసలు",
+      "contactUs": "సంప్రదించండి",
+      "bookConsultation": "సంప్రదింపులను బుక్ చేయండి"
+    },
+    "hero": {
+      "heading": "డేటా, వ్యూహం మరియు ప్రజల విశ్వాసంతో గెలిచే రాజకీయ ప్రచారాల నిర్మాణం",
+      "subheading": "ఆధునిక ప్రచార నిర్వహణ, డిజిటల్ ఔట్రీచ్, నియోజకవర్గ విశ్లేషణ మరియు మీడియా వ్యూహం ద్వారా రాజకీయ నాయకులు, పార్టీలు మరియు అభ్యర్థులు ఓటర్లతో కనెక్ట్ అవ్వడానికి మేము సహాయం చేస్తాము.",
+      "cta1": "సంప్రదింపులను షెడ్యూల్ చేయండి",
+      "cta2": "సేవలను అన్వేషించండి",
+      "trustLines": [
+        "బూత్-స్థాయి వ్యూహం",
+        "సోషల్ మీడియా ప్రచారాలు",
+        "గ్రౌండ్ సర్వేలు",
+        "ఎన్నికల వార్ రూమ్ సపోర్ట్"
+      ]
+    },
+    "stats": [
+      { "value": "50+", "label": "నిర్వహించిన ప్రచారాలు" },
+      { "value": "2M+", "label": "చేరుకున్న ఓటర్లు" },
+      { "value": "100+", "label": "డిజిటల్ ప్రచారాలు" },
+      { "value": "24/7", "label": "వార్ రూమ్ ఆపరేషన్స్" }
+    ],
+    "about": {
+      "heading": "మా రాజకీయ కన్సల్టింగ్ సంస్థ గురించి",
+      "content1": "రాజకీయ నాయకులు మరియు సంస్థల కోసం రాజకీయ వ్యూహం, ప్రచార అమలు, ఓటర్ల నిశ్చితార్థం మరియు డిజిటల్ కమ్యూనికేషన్‌లో మేము నైపుణ్యం కలిగి ఉన్నాము. మా బృందం కొలవగల ఎన్నికల ఫలితాలను అందించడానికి సాంకేతికత, విశ్లేషణలు మరియు క్షేత్రస్థాయి ప్రణాళికలను మిళితం చేస్తుంది.",
+      "content2": "నియోజకవర్గ పరిశోధన మరియు ప్రజల అవగాహన నిర్వహణ నుండి ఎన్నికల రోజు కార్యకలాపాల వరకు మేము అభ్యర్థులకు ప్రతి దశలోనూ సహాయం చేస్తాము.",
+      "cta": "మా గురించి మరింత తెలుసుకోండి"
+    },
+    "whyChooseUs": {
+      "heading": "నాయకులు మమ్మల్ని ఎందుకు నమ్ముతారు",
+      "items": [
+        {
+          "title": "వ్యూహాత్మక ప్రచార ప్రణాళిక",
+          "description": "నియోజకవర్గ జనాభా మరియు ఓటర్ల ప్రవర్తనకు అనుగుణంగా సమగ్ర ఎన్నికల వ్యూహాలు."
+        },
+        {
+          "title": "డేటా ఆధారిత నిర్ణయాలు",
+          "description": "తెలివైన రాజకీయ నిర్ణయం తీసుకోవడం కోసం అధునాతన విశ్లేషణలు మరియు ఓటర్ల అంతర్దృష్టులు."
+        },
+        {
+          "title": "డిజిటల్ పొలిటికల్ బ్రాండింగ్",
+          "description": "వృత్తిపరమైన సోషల్ మీడియా నిర్వహణ మరియు రాజకీయ బ్రాండింగ్ పరిష్కారాలు."
+        },
+        {
+          "title": "క్షేత్రస్థాయి అమలు",
+          "description": "బూత్ మేనేజ్మెంట్, వాలంటీర్ కోఆర్డినేషన్ మరియు ఫీల్డ్ ఆపరేషన్స్ సపోర్ట్."
+        },
+        {
+          "title": "మీడియా & పబ్లిక్ రిలేషన్స్",
+          "description": "కీర్తి నిర్వహణ, ప్రెస్ హ్యాండ్లింగ్ మరియు సంక్షోభ కమ్యూనికేషన్."
+        },
+        {
+          "title": "ప్రత్యేక వార్ రూమ్",
+          "description": "ఎన్నికల సమయంలో రియల్ టైమ్ మానిటరింగ్ మరియు ప్రచార ప్రతిస్పందన వ్యవస్థలు."
+        }
+      ]
+    },
+    "services": {
+      "heading": "మా రాజకీయ కన్సల్టింగ్ సేవలు",
+      "items": [
+        {
+          "title": "ఎన్నికల ప్రచార నిర్వహణ",
+          "description": "రాజకీయ అభ్యర్థులు మరియు పార్టీల కోసం ఎండ్-టు-ఎండ్ ప్రచార ప్రణాళిక, అమలు మరియు పర్యవేక్షణ.",
+          "includes": ["ప్రచార రోడ్ మ్యాప్", "అభ్యర్థి స్థానం", "ఓటర్ల లక్ష్యం", "ర్యాలీ ప్రణాళిక", "ఎన్నికల వ్యూహం"]
+        },
+        {
+          "title": "రాజకీయ డిజిటల్ మార్కెటింగ్",
+          "description": "లక్ష్యంగా చేసుకున్న రాజకీయ ప్రచారాల ద్వారా బలమైన ఆన్‌లైన్ ఉనికిని నిర్మించండి.",
+          "includes": ["ఫేస్‌బుక్ & ఇన్‌స్టాగ్రామ్ ప్రచారాలు", "యూట్యూబ్ ప్రమోషన్లు", "వాట్సాప్ ఔట్రీచ్", "రాజకీయ సృజనాత్మకతలు", "ఇన్ఫ్లుయెన్సర్ ప్రచారాలు"]
+        },
+        {
+          "title": "ఓటర్ డేటా అనలిటిక్స్",
+          "description": "విశ్లేషణలను ఉపయోగించి ఓటర్ల ప్రవర్తన మరియు నియోజకవర్గ పోకడలను అర్థం చేసుకోండి.",
+          "includes": ["ఓటర్ విభజన", "సర్వే విశ్లేషణ", "అభిప్రాయ సేకరణ", "నియోజకవర్గ నివేదికలు"]
+        },
+        {
+          "title": "సోషల్ మీడియా మేనేజ్మెంట్",
+          "description": "రాజకీయ సోషల్ మీడియా ఖాతాల వృత్తిపరమైన నిర్వహణ.",
+          "includes": ["రోజువారీ కంటెంట్ పోస్టింగ్", "వీడియో ప్రచారాలు", "రీల్స్ & షార్ట్స్", "ప్రజల నిశ్చితార్థం", "కామెంట్ మోడరేషన్"]
+        },
+        {
+          "title": "బూత్ మేనేజ్మెంట్",
+          "description": "సమర్థవంతమైన బూత్-స్థాయి ఎన్నికల కార్యకలాపాలు.",
+          "includes": ["బూత్ కమిటీలు", "వాలంటీర్ శిక్షణ", "ఓటర్ల సమీకరణ", "పోలింగ్ రోజు సమన్వయం"]
+        },
+        {
+          "title": "మీడియా & PR మేనేజ్మెంట్",
+          "description": "ప్రజల ఇమేజ్ మరియు మీడియా సంబంధాలను బలోపేతం చేయండి.",
+          "includes": ["పత్రికా ప్రకటనలు", "వార్తల కవరేజీ", "మీడియా ప్రణాళిక", "కీర్తి నిర్వహణ", "సంక్షోభ నిర్వహణ"]
+        },
+        {
+          "title": "సర్వే & గ్రౌండ్ రీసెర్చ్",
+          "description": "ఫీల్డ్ సర్వేలు మరియు నియోజకవర్గ ఇంటెలిజెన్స్ సేకరణ.",
+          "includes": ["ఇంటింటికీ సర్వేలు", "ప్రజల సెంటిమెంట్ విశ్లేషణ", "గ్రౌండ్ నివేదికలు", "ఎన్నికల అంచనా"]
+        },
+        {
+          "title": "రాజకీయ వెబ్‌సైట్ & టెక్",
+          "description": "డిజిటల్ ప్లాట్‌ఫారమ్‌లు మరియు ప్రచార సాంకేతిక మద్దతు.",
+          "includes": ["రాజకీయ వెబ్‌సైట్లు", "CRM వ్యవస్థలు", "వాలంటీర్ సాధనాలు", "విరాళాల వ్యవస్థలు", "చాట్‌బాట్ ఇంటిగ్రేషన్"]
+        }
+      ]
+    },
+    "banner": {
+      "heading": "దార్శనికతలను విజయాలుగా మార్చడం",
+      "subheading": "డేటా ఆధారిత రాజకీయ వ్యూహం యొక్క శక్తిని అనుభవించండి.",
+      "cta": "ప్రారంభించండి"
+    },
+    "process": {
+      "heading": "మేము ఎలా పని చేస్తాము",
+      "items": [
+        {
+          "title": "పరిశోధన & విశ్లేషణ",
+          "description": "మేము నియోజకవర్గ జనాభా, ఓటర్ల ప్రవర్తన మరియు రాజకీయ దృశ్యాన్ని విశ్లేషిస్తాము."
+        },
+        {
+          "title": "వ్యూహాత్మక ప్రణాళిక",
+          "description": "ఎన్నికల లక్ష్యాలకు అనుగుణంగా అనుకూలీకరించిన ప్రచార వ్యూహాలు."
+        },
+        {
+          "title": "ప్రచార అమలు",
+          "description": "డిజిటల్, మీడియా మరియు ఫీల్డ్ కార్యకలాపాల అమలు."
+        },
+        {
+          "title": "పర్యవేక్షణ & ఆప్టిమైజేషన్",
+          "description": "నిరంతర పనితీరు ట్రాకింగ్ మరియు వ్యూహ శుద్ధీకరణ."
+        }
+      ]
+    },
+    "testimonials": {
+      "heading": "నాయకులు మా గురించి ఏమంటున్నారు",
+      "items": [
+        {
+          "quote": "వారి డిజిటల్ వ్యూహం మరియు బూత్ నిర్వహణ ఓటర్ల నిశ్చితార్థాన్ని గణనీయంగా మెరుగుపరచడంలో మాకు సహాయపడ్డాయి.",
+          "author": "రాజకీయ నాయకుడు"
+        },
+        {
+          "quote": "అద్భుతమైన రాజకీయ ప్రచార నైపుణ్యం మరియు రియల్ టైమ్ మద్దతు ఉన్న వృత్తిపరమైన బృందం.",
+          "author": "ప్రచార నిర్వాహకుడు"
+        },
+        {
+          "quote": "సోషల్ మీడియా నుండి గ్రౌండ్ సర్వేల వరకు ప్రతిదీ సమర్థవంతంగా నిర్వహించబడింది.",
+          "author": "MLA అభ్యర్థి"
+        }
+      ]
+    },
+    "cta": {
+      "heading": "విజయం సాధించే రాజకీయ ప్రచారాన్ని నిర్మించడానికి సిద్ధంగా ఉన్నారా?",
+      "content": "మీ ప్రచారాన్ని బలోపేతం చేయడానికి, ఓటర్లను సమర్థవంతంగా చేరుకోవడానికి మరియు ఎన్నికల ప్రభావాన్ని పెంచడానికి వృత్తిపరమైన రాజకీయ కన్సల్టింగ్ బృందంతో భాగస్వామిగా ఉండండి.",
+      "buttons": {
+        "contact": "మమ్మల్ని సంప్రదించండి",
+        "book": "ఉచిత సంప్రదింపులను బుక్ చేయండి"
+      }
+    },
+    "contact": {
+      "heading": "సంప్రదింపు సమాచారం",
+      "form": {
+        "name": "పూర్తి పేరు",
+        "phone": "ఫోన్ నంబర్",
+        "email": "ఈమెయిల్",
+        "party": "రాజకీయ పార్టీ / సంస్థ",
+        "message": "సందేశం",
+        "submit": "విచారణ పంపండి"
+      },
+      "info": {
+        "phone": "+91 98765 43210",
+        "email": "contact@politicalconsult.in",
+        "address": "123, ఎలక్షన్ టవర్, హైదరాబాద్, ఇండియా"
+      }
+    },
+    "footer": {
+      "company": ["మా గురించి", "సేవలు", "కెరీర్లు", "గోప్యతా విధానం"],
+      "services": ["ప్రచార నిర్వహణ", "డిజిటల్ మార్కెటింగ్", "PR నిర్వహణ", "సర్వేలు & విశ్లేషణలు"],
+      "quickLinks": ["హోమ్", "ప్రశంసలు", "సంప్రదించండి"],
+      "rights": "© 2026 పొలిటికల్ కన్సల్ట్. అన్ని హక్కులు ప్రత్యేకించబడ్డాయి."
+    }
+  }
+}
